@@ -1,5 +1,5 @@
 
-# IP-zp51_Wiki_Animal--Stadnyk-Oleksandr-FIOT-2025
+# IP-zp51_Wiki_Animal-StadnykOleksandr-FIOT-2025
 
 Енциклопедія хвостатих друзів
 
